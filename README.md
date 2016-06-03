@@ -1,4 +1,4 @@
 # Angular2 Quickstart Project
 
 ## Installation
-Run `npm install`
+From the command line, run `npm install --save`
